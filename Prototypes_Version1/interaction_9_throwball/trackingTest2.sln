@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trackingTest2", "trackingTest2\trackingTest2\trackingTest2.csproj", "{92E95B89-59CC-414C-B428-D84F0BD4914E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "trackingTest2Content", "trackingTest2\trackingTest2Content\trackingTest2Content.contentproj", "{1C98B847-E170-4F99-9FDC-D08688B31C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E95B89-59CC-414C-B428-D84F0BD4914E}.Debug|x86.ActiveCfg = Debug|x86
+		{92E95B89-59CC-414C-B428-D84F0BD4914E}.Debug|x86.Build.0 = Debug|x86
+		{92E95B89-59CC-414C-B428-D84F0BD4914E}.Release|x86.ActiveCfg = Release|x86
+		{92E95B89-59CC-414C-B428-D84F0BD4914E}.Release|x86.Build.0 = Release|x86
+		{1C98B847-E170-4F99-9FDC-D08688B31C9E}.Debug|x86.ActiveCfg = Debug|x86
+		{1C98B847-E170-4F99-9FDC-D08688B31C9E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
