@@ -1,0 +1,9 @@
+Content\canalBN.xnb
+Content\exitH.xnb
+Content\inventLocketActive.xnb
+Content\Scene1.xnb
+Content\Scene1.wmv
+Content\Scene2.xnb
+Content\Scene2.wmv
+Content\Scene3.xnb
+Content\Scene3.wmv

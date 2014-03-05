@@ -1,0 +1,2 @@
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTestingContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTestingContent\obj\x86\Debug\Babyproof_CompositionTestingContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\canalBN.xnb
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\exitH.xnb
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Babyproof_CompositionTesting.exe
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Babyproof_CompositionTesting.pdb
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\obj\x86\Debug\Babyproof_CompositionTesting.exe
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\obj\x86\Debug\Babyproof_CompositionTesting.pdb
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene1.xnb
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene1.wmv
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene2.xnb
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene3.xnb
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene2.wmv
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene3.wmv
+C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTesting\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\inventLocketActive.xnb
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\canalBN.xnb
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\exitH.xnb
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\inventLocketActive.xnb
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene1.xnb
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene2.xnb
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene3.xnb
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene1.wmv
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene2.wmv
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene3.wmv
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Babyproof_CompositionTesting.exe
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Babyproof_CompositionTesting.pdb
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\obj\x86\Debug\Babyproof_CompositionTesting.csprojResolveAssemblyReference.cache
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\obj\x86\Debug\Babyproof_CompositionTesting.exe
+F:\(int)Elegance (Senior Project)\Completed\Programming\Babyproof_CompositionTestingv1\Babyproof_CompositionTesting\Babyproof_CompositionTesting\obj\x86\Debug\Babyproof_CompositionTesting.pdb

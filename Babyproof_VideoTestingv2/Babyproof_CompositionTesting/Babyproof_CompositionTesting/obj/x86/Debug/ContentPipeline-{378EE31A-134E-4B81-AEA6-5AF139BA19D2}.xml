@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>canalBN.png</Source>
+      <Name>canalBN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\canalBN.xnb</Output>
+      <Time>2014-01-23T11:46:36.700079-05:00</Time>
+    </Item>
+    <Item>
+      <Source>exitH.png</Source>
+      <Name>exitH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\exitH.xnb</Output>
+      <Time>2014-01-23T11:46:36.792079-05:00</Time>
+    </Item>
+    <Item>
+      <Source>inventLocketActive.png</Source>
+      <Name>inventLocketActive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\inventLocketActive.xnb</Output>
+      <Time>2014-01-23T11:46:37.653079-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene1.wmv</Source>
+      <Name>Scene1</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene1.xnb</Output>
+      <Extra>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene1.wmv</Extra>
+      <Time>2014-01-23T13:22:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene2.wmv</Source>
+      <Name>Scene2</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene2.xnb</Output>
+      <Extra>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene2.wmv</Extra>
+      <Time>2014-01-23T13:21:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene3.wmv</Source>
+      <Name>Scene3</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene3.xnb</Output>
+      <Extra>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\Scene3.wmv</Extra>
+      <Time>2014-01-23T19:28:23.847956-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{378EE31A-134E-4B81-AEA6-5AF139BA19D2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTestingContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTesting\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTesting\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ummiyakubu\Desktop\Babyproof_CompositionTestingv2\Babyproof_CompositionTesting\Babyproof_CompositionTesting\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-07-11T10:59:00.6300923-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
